@@ -4,8 +4,9 @@ In the process of leaving language and text in letters and online forums, human 
 
 **Word embeddings**, as a word vector model,  can calculate implicit contextual information, attitudes and biases from text. Through the measurement of word vector distance, **the bias(attitude, prejudice、cognition)** of different groups towards a **concept (organization, group, brand, region, etc.**) can be indirectly measured.
 
-**Hopefully that in the future, Python will have a word embedding tool library dedicated to calculating human cognitive biases.**
-
+**Some python library can display human cognitive biases with word embedding model**
+- [whatlies](https://github.com/koaning/whatlies/)
+- [parallax](https://github.com/uber-research/parallax)
 
 <br>
 
