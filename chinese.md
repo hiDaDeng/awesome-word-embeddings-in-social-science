@@ -7,6 +7,7 @@
 **目前有些Python库可以使用词嵌入模型展示人类认知偏见， 如:**
 - [whatlies](https://github.com/koaning/whatlies/)
 - [parallax](https://github.com/uber-research/parallax)
+- [wordbias](https://github.com/bhavyaghai/WordBias)
 
 <br>
 
