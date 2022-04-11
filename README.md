@@ -1,3 +1,5 @@
+[Chinese Version](chinese.md)
+
 In the process of leaving language and text in letters and online forums, human beings also leave their own **subjective cognitive information (prejudice, attitude)**.
 
 **Word embeddings**, as a word vector model,  can calculate implicit contextual information, attitudes and biases from text. Through the measurement of word vector distance, **the bias(attitude, prejudice、cognition)** of different groups towards a **concept (organization, group, brand, region, etc.**) can be indirectly measured.
