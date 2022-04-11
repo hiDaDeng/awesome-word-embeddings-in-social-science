@@ -1,6 +1,6 @@
-In the process of leaving language and text in letters and online forums, human beings also leave their own subjective cognitive information (prejudice, attitude).
+In the process of leaving language and text in letters and online forums, human beings also leave their own **subjective cognitive information (prejudice, attitude)**.
 
-Word embedding, as a word vector model,  can calculate implicit contextual information, attitudes and biases from text. Through the measurement of word vector distance, the attitude bias of different groups towards a concept (organization, group, brand, region, etc.) can be indirectly measured.
+**Word embeddings**, as a word vector model,  can calculate implicit contextual information, attitudes and biases from text. Through the measurement of word vector distance, **the bias(attitude, prejudice、cognition)** of different groups towards a **concept (organization, group, brand, region, etc.**) can be indirectly measured.
 
 人类在书信、网络论坛留下语言、文字的过程中，也留下了自己的偏见、态度等主观认知信息（偏见、态度）。
 
