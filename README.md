@@ -10,6 +10,7 @@ Word embedding, as a word vector model,  can calculate implicit contextual infor
 <br>
 
 ## Related
+- 冉雅璇,李志强,刘佳妮,张逸石.大数据时代下社会科学研究方法的拓展——基于词嵌入技术的文本分析的应用[J/OL].南开管理评论:1-27[2022-04-08].http://kns.cnki.net/kcms/detail/12.1288.F.20210905.1337.002.html
 - Kozlowski, A.C., Taddy, M. and Evans, J.A., 2019. The geometry of culture: Analyzing the meanings of class through word embeddings. American Sociological Review, 84(5), pp.905-949.
 - Toubia, O., Berger, J. and Eliashberg, J., 2021. How quantifying the shape of stories predicts their success. *Proceedings of the National Academy of Sciences*, *118*(26).
 - Caliskan A, Bryson JJ, Narayanan A. Semantics derived automatically from language corpora contain human-like biases. Science. 2017;356: 183–186.
