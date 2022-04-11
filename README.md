@@ -4,7 +4,9 @@ In the process of leaving language and text in letters and online forums, human 
 
 **Hopefully that in the future, Python will have a word embedding tool library dedicated to calculating human cognitive biases.**
 
-
+>人类在书信、网络论坛留下语言、文字的过程中，也留下了自己的偏见、态度等主观认知信息（偏见、态度）。
+>词嵌入做为一种词向量模型，可以从文本中计算出隐含的上下文情景信息，态度及偏见。通过词向量距离的测算，就可以间接测得不同群体对某概念(组织、群体、品牌、地域等)的态度偏见。
+>希望将来Python能有专门用于计算人类认知偏见的词嵌入工具库。
 
 <br>
 
